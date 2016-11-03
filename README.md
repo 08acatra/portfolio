@@ -7,9 +7,9 @@ Quick overview of my online website/portfolio
 I am a programmer for interactive media. Always looking to absorb the next piece of knowledge, I stumbled upon programming in high school and decided to pursue the craft at Columbia College Chicago.
 
 ##Ascend
-<>
-<>
-<>
+![](/img/Ascend1.png)
+![](/img/Ascend2.png)
+![](/img/Ascend3.png)
 
 [Ascend Official Website](http://game.colum.edu/projects/AscendTheGame/ "Official Website")
 * September 2015 - May 2016
@@ -20,9 +20,9 @@ I am a programmer for interactive media. Always looking to absorb the next piece
 Ascend was an ambitious project, a trek into the narrative exploration genre along with a required mobile component made this a challenge, even among a team of 30+ individuals. I focused on the network programming using Unity's new network socket API, creating a system to send data back and forth as needed in an efficient manner.
 
 ##Metacosmic Earth Race
-<>
-<>
-<>
+![](/img/Meta1.png)
+![](/img/Meta2.png)
+![](/img/Meta3.png)
 
 [Metacosmic Earth Race Official Website](http://game.colum.edu/projects/spacerace/ "Official Website")
 * December 2014 - May 2015
@@ -33,9 +33,9 @@ Ascend was an ambitious project, a trek into the narrative exploration genre alo
 I was brought onto the project as an intern after the pre-production stages. A majority of my time was spent with the lead network programmer to troubleshoot networking issues with the game but was also tasked small assignments and bug fixing to polish up the final project.
 
 ##Worlds VR
-<>
-<>
-<>
+![](/img/WorldsVR1.png)
+![](/img/WorldsVR2.png)
+![](/img/WorldsVR3.png)
 
 [Worlds VR Demo](https://www.youtube.com/watch?v=waF5v2w80Qg "Video Demo")
 * November 2014 - December 2014
